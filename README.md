@@ -1,10 +1,10 @@
-**Examples:**
+##Examples
 
 **Method:**
 GET
 
 **URL:**
-http://localhost:8888/test1
+http://example.com/test1
 
 **Response:**
 `{
@@ -18,7 +18,7 @@ http://localhost:8888/test1
 GET
 
 **URL:**
-http://localhost:8888/test2/param1/test/param2?param1=urlparam1&param2=urlparam2
+http://example.com/test2/param1/test/param2?param1=urlparam1&param2=urlparam2
 
 **Response:**
 `{
@@ -32,7 +32,7 @@ http://localhost:8888/test2/param1/test/param2?param1=urlparam1&param2=urlparam2
 GET
 
 **URL:**
-http://localhost:8888/test3
+http://example.com/test3
 
 **Response:**
 `{
@@ -46,7 +46,7 @@ http://localhost:8888/test3
 POST
 
 **URL:**
-http://localhost:8888/test1
+http://example.com/test1
 
 **Response:**
 `{
@@ -60,7 +60,7 @@ http://localhost:8888/test1
 POST
 
 **URL:**
-http://localhost:8888/test2/data1/param1
+http://example.com/test2/data1/param1
 
 **Form-Data:**
 param1 	formdata1
@@ -78,7 +78,7 @@ param2	formdata2
 POST
 
 **URL:**
-http://localhost:8888/test2/data2/param1
+http://example.com/test2/data2/param1
 
 **Body:**
 `{ "param1": "body1", "param2": "body2" }`
@@ -95,7 +95,7 @@ http://localhost:8888/test2/data2/param1
 POST
 
 **URL:**
-http://localhost:8888/test3
+http://example.com/test3
 
 **Response:**
 `{
@@ -109,7 +109,7 @@ http://localhost:8888/test3
 PUT
 
 **URL:**
-http://localhost:8888/test1
+http://example.com/test1
 
 **Response:**
 `{
@@ -123,7 +123,7 @@ http://localhost:8888/test1
 PUT
 
 **URL:**
-http://localhost:8888/test2/param1
+http://example.com/test2/param1
 
 **Body:**
 `{ "param1": "body1", "param2": "body2" }`
@@ -140,7 +140,7 @@ http://localhost:8888/test2/param1
 PUT
 
 **URL:**
-http://localhost:8888/test3
+http://example.com/test3
 
 **Response:**
 `{
@@ -154,7 +154,7 @@ http://localhost:8888/test3
 DELETE
 
 **URL:**
-http://localhost:8888/test1
+http://example.com/test1
 
 **Response:**
 `{
@@ -168,7 +168,7 @@ http://localhost:8888/test1
 DELETE
 
 **URL:**
-http://localhost:8888/test2/param1/test/param2
+http://example.com/test2/param1/test/param2
 
 **Response:**
 `{
@@ -182,7 +182,7 @@ http://localhost:8888/test2/param1/test/param2
 DELETE
 
 **URL:**
-http://localhost:8888/test3
+http://example.com/test3
 
 **Response:**
 `{
