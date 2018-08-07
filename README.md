@@ -1,6 +1,6 @@
 ##About
 
-You can easily create your own php rest server by using this framework..
+You can easily create your own php rest server by using this framework.
 
 You only need to add handlers into 'handlers' folder like given examples ('test1.php', 'test2.php', 'test3.php')
 
